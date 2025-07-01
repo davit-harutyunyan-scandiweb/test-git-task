@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2336645dfd04fa77fe705768550cf795",
+    "content-hash": "15d4c710c82b8360fee9121fc50eb312",
     "packages": [
         {
             "name": "2tvenom/cborencode",
@@ -18611,7 +18611,6 @@
             ],
             "description": "eCommerce Platform for Growth (Community Edition)"
         },
-
         {
             "name": "magento/security-package",
             "version": "1.1.6-p3",
